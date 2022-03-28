@@ -10,6 +10,8 @@
 
 - 📫 How to reach me: [LinkedIn-@krishkanojia](https://www.linkedin.com/in/krish-kanojia-0a7153236/)
 
+ A hard-working Computer Science (BSCS) student from Iqra University, passionate learner and curious enough to seek this wonderful career path.
+
 ![enter image description here](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ba38hl24xdaqj906zh7zrea7wlruog601jm9vu6e&rid=giphy.gif&ct=g)
 
 <h3 align="left">Connect with me:</h3>
