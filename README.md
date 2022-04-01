@@ -13,7 +13,7 @@
  A hard-working Computer Science (BSCS) student from Iqra University, passionate learner and curious enough to seek this wonderful career path.
 
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-     width="1000" 
+     width="900" 
     height="400" />
 
 <h3 align="left">Connect with me:</h3>
