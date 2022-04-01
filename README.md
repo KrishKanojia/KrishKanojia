@@ -14,7 +14,7 @@
 
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
      width="1000" 
-    height="400" />
+    height="450" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
