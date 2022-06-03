@@ -1,6 +1,6 @@
 ### I'm Krish Kanojia 👋
 
-- 🔭 I’m currently working on **Money Ledger App.**
+- 🔭 I’m currently working on **Barat App.**
 
 - 🌱 I’m currently learning **Flutter and dart.**
 
