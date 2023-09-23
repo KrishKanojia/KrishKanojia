@@ -29,4 +29,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishkanojia&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="krishkanojia" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishkanojia&theme=dark)](https://git.io/streak-stats)
 
